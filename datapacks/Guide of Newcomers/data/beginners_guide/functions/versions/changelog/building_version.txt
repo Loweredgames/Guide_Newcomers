@@ -1,0 +1,16 @@
+
+Name: Guide of Newcomers
+
+Edition: JAVA EDITION
+
+Release: JE-1.19.4-23w04a-Guide-of-Newcomers:BUILDING:26.01.2023a - 1.0.0
+
+Resource_pack: TRUE
+
+Data_pack: TRUE
+
+Github_Tag: JE-1a
+
+Github:https://github.com/Loweredgames/Guide_Newcomers
+
+Website:https://minecraft-map-building-versions.blogspot.com/
