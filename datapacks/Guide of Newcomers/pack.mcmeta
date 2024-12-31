@@ -1,6 +1,7 @@
- {
-       "pack": {
-           "pack_format": 11,
-           "description": "Guide of Newcomers by Lorenzo Giannini"
-       }
-   }
+{
+    "pack": {
+        "pack_format": 61,
+        "supported_formats": {"min_inclusive": 61, "max_inclusive": 61},
+        "description": "Guide of Newcomers by Lorenzo Giannini"
+    }
+}
