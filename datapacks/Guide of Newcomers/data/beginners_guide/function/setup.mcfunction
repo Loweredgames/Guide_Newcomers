@@ -8,7 +8,7 @@
 ##Setup
 #tellraw @a ["",{"translate":"???.test"}]
 recipe give @a *
-effect give @a night_vision infinite 0 true
+#effect give @a night_vision infinite 0 true
 
 
 ##Function Setup
